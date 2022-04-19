@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/gb_shop_3"
+    username: "postgres"
+    password: "geek"
