@@ -1,0 +1,3 @@
+[submodule "gb-api"]
+	path = gb-api
+	url = git@github.com:DmitryVasilev83/gb-api.git
